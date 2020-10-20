@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/PRs-welcome-%238257E6.svg" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
-
-  <a href="https://twitter.com/intent/follow?screen_name=rocketseat">
-    <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Follow @rocketseat" />
-  </a>
 </p>
 
 <p align="center">
