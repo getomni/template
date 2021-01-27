@@ -2,12 +2,12 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://website-link.com">X</a>
+  Omni for <a href="(https://www.microsoft.com/p/windows-terminal/9n0dx20hk701">Windows Terminal</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://website-link.com">X</a></strong>
+  <strong>Dark theme for <a href="https://website-link.com">Windows Terminal</a></strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for X" src="./screenshot.png">
+  <img alt="Omni screnshoot for Windows Terminal" src="./screenshot.png">
 </p>
 
 ## Install
@@ -34,9 +34,10 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
 
-| [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
-| ------------------------------------------------------------------------------------------------ |
-| [João Pedro](https://github.com/jpedroschmitz)                                                   |
+| [![Davi Oliveira](https://github.com/davioliveira-dev.png?size=100)](https://github.com/davioliveira-dev) | [![João Pedro Schmitz](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz)|
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Davi Oliveira](https://github.com/davioliveira-dev)                                         | [João Pedro](https://github.com/jpedroschmitz)
+
 
 ## License
 
